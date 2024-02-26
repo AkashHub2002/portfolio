@@ -55,13 +55,13 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'> 
                 <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>About Me</h2> 
                 <p className='font-medium'> 
-                Hello myself Akash Shil, currently iam pursuing MCA from JIS College of Engineering specializing in Computer applications. Passionate about coding, ui/ux and quick-Learner, I have found my true calling in Web Design like ui/ux Design, I've honed my skills in HTML, CSS, JavaScript, python and desgin tools like Figma.
+                Hello myself Akash Shil, currently iam pursuing MCA from JIS College of Engineering specializing in Computer applications. Passionate about coding, ui/ux and quick-Learner, I have found my true calling in Web Design like ui/ux Design, I&apos;ve honed my skills in HTML, CSS, JavaScript, python and desgin tools like Figma.
                 </p> 
                 <p className='my-4 font-medium'> 
                 pretend to be a part of an organization Where I can constantly learn and develop my technical and management skills and make best use of it for the growth of the organization. I look forward to establishing my skills by adapting new technologies as well.
                 </p> 
                 <p className='font-medium'> 
-                🤝 Let's connect! I'm enthusiastic about networking with fellow professionals, mentors, and potential collaborators. Feel free to reach out to me via LinkedIn messaging or at somnathbiswas576@gmail.com. Together, let's shape the future of web technology! 
+                🤝 Let&apos;s connect! I&apos;m enthusiastic about networking with fellow professionals, mentors, and potential collaborators. Feel free to reach out to me via LinkedIn messaging or at somnathbiswas576@gmail.com. Together, let&apos;s shape the future of web technology! 
                 </p> 
             </div> 
  
